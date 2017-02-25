@@ -20,4 +20,4 @@ for i in range(0,response):
         sum += i
 
 print "\n\nSum: ", sum
-        d
+        
