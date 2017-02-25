@@ -26,5 +26,3 @@ print "SUM OF THE SQUARES: ", squareSumTotal
 print "SQUARE OF THE SUM: ", sumSquareTotal
 
 print "DIFFERENCE: ", sumSquareTotal - squareSumTotal
-
-asdf
